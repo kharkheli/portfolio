@@ -22,7 +22,7 @@ function Index() {
         <div className="contact-cont">
           <div className="contact-detail-cont">
             <h2 className="subtitle upercase" style={{ fontWeight: '700' }}>
-              Don't be shy !
+              Say Hi!
             </h2>
             <p
               style={{

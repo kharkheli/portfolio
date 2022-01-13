@@ -1,6 +1,7 @@
 import ihreFasi from '../photo/ihre-fasi.png'
 import xodWeb from '../photo/xod-web.png'
 import shootRun from '../photo/shoot-run.png'
+import simpleChat from '../photo/simple-chat.png'
 
 const data = [
   {
@@ -12,6 +13,16 @@ const data = [
     preview: 'ihre-fasi.de',
     languages: 'React.JS',
     github: 'https://github.com/kharkheli/Robert-Portfelio',
+  },
+  {
+    name: 'Simple Chat',
+    img: simpleChat,
+    project: 'Chat',
+    client: 'Personal',
+    link: 'https://simple-shmat.netlify.app/',
+    preview: 'simple chat',
+    languages: 'socet.io react.js node.js',
+    github: 'https://github.com/kharkheli/simlple-chat-client',
   },
   {
     name: 'Goal Manager',

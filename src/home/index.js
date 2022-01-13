@@ -42,10 +42,15 @@ function Index() {
           <h1 className="upercase orange name">I'm ilia kharkheli</h1>
           <h1 className="upercase">mern developer</h1>
           <p className="description">
-            Self-motivated Kinesthetic learner, I have much to learn but I know
-            how to use all I know. "If knowledge is not put into practice, it
-            does not benefit one" that's why I learn by practising and writing
-            codes.
+            Self-motivated Kinesthetic learner. I am undergoing further
+            training, though I have the knowledge and abilities to turn theory
+            into practice successfully. I am very grateful for the opportunity I
+            was given to devote myself to some interesting international and
+            national projects. I am driven by curiosity, love of my work and
+            want to leave my mark. What inspired me most is meditation, reading
+            books on meditation, hiking and bus drive. In my free time, you can
+            challenge me also in playing bowling, solving Rubik's cube, cocking
+            the most delicious mushrooms, etc.
           </p>
           <div className="btn-cont">
             <div className="cool-btn" onClick={() => setMoreAbout(true)}>
